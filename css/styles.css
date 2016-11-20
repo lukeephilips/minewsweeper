@@ -22,6 +22,7 @@ html {
 
 body {
   color: white;
+  background-color: black;
 }
 
 .btn {
@@ -137,6 +138,7 @@ input {
   width:28px;
   height: 28px;
   position: relative;
+  border-radius: 10%;
 }
 
 #shake {
